@@ -1,0 +1,14 @@
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\bin\Debug\SerialdataMonitoring.exe.config
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\bin\Debug\SerialdataMonitoring.exe
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\bin\Debug\SerialdataMonitoring.pdb
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\bin\Debug\kayChart.dll
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\bin\Debug\MetroFramework.Design.dll
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\bin\Debug\MetroFramework.dll
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\obj\Debug\SerialdataMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\obj\Debug\SerialdataMonitoring.Form1.resources
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\obj\Debug\SerialdataMonitoring.Properties.Resources.resources
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\obj\Debug\SerialdataMonitoring.csproj.GenerateResource.Cache
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\obj\Debug\SerialdataMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\obj\Debug\SerialdataMonitoring.exe
+C:\Users\chirath\Desktop\Project\SerialdataMonitoring\SerialdataMonitoring\obj\Debug\SerialdataMonitoring.pdb
